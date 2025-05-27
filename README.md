@@ -8,7 +8,7 @@
 <br><br>
 جهت ارتباط با پشتیبانی در تلگرام به <a href="https://t.me/asanvpncom_support" target="_blank" dir="ltr">@asanvpn_support</a> پیام ارسال کنید
 <br><br><br>
-<img src="https://asanservice.pages.dev/img/service.jpg" alt="خرید اشتراک">
+<img src="https://github.com/user-attachments/assets/3e4852a2-bf28-4f85-af2c-9b298474306e" alt="خرید اشتراک">
 <br><br><br>
 <h1>خرید V2Ray</h1>
 <br>
@@ -34,7 +34,7 @@ V2Ray سرویسی پیشرفته و حرفه ای
 <br><br>
 خرید اشتراک v2rayNG برای اندروید | اکانت VPN پرسرعت | بدون قطعی | آی پی ثابت انگلیس - آلمان - آمریکا.
 <br><br><br>
-<img src="https://asanservice.pages.dev/img/recommended-apps.jpg" alt="آیکون کانکشن های V2Ray، v2rayNG - v2rayN - NapsternetV">
+<img src="https://asanware.vip/recommended-apps.jpg" alt="آیکون کانکشن های V2Ray، v2rayNG - v2rayN - NapsternetV">
 <br><br><br>
 اکانت سه کاربره یعنی می توانید تنها با یک اشتراک 3 دستگاه مختلف را به صورت همزمان متصل کنید. همچنین حداکثر اتصال همزمان برای اکانت دو کاربره 2 دستگاه است.
 <br><br>
